@@ -1,0 +1,53 @@
+[33mcommit 07ae82ea0e34b3f1b3a2ac7522bf923ac6317697[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: fortheskyking <15821850193@139.com>
+Date:   Tue Jul 23 23:01:02 2019 +0800
+
+    User authenication with flask-login
+
+[33mcommit 6439f15ecae0f75414932a693caf0fb4ce890984[m
+Author: fortheskyking <15821850193@139.com>
+Date:   Tue Jul 23 16:56:30 2019 +0800
+
+    Create,edit and delete item by form
+
+[33mcommit 8daf813721fb0bdbdef20a143b6a4f87ff23bb64[m
+Author: fortheskyking <15821850193@139.com>
+Date:   Tue Jul 23 15:47:28 2019 +0800
+
+    Add base template and error template2
+
+[33mcommit d57422821eb90ed1be60f37f2da7e2575892c4a4[m
+Author: fortheskyking <15821850193@139.com>
+Date:   Tue Jul 23 15:41:02 2019 +0800
+
+    Add base template and error template
+
+[33mcommit 87a36e122aef2a7a20ff5757dfbff5a3953ea52b[m
+Author: fortheskyking <15821850193@139.com>
+Date:   Tue Jul 23 15:07:06 2019 +0800
+
+    Add database support with Flask-SQLAlchemy
+
+[33mcommit 3ad429fd38b64ff0ce4e8ae3eb555e0f7e1ac9e2[m
+Author: fortheskyking <15821850193@139.com>
+Date:   Tue Jul 23 10:19:02 2019 +0800
+
+    Add static files
+
+[33mcommit 5bd82bef82703efa258d2ad5c188d053cb28d60e[m
+Author: fortheskyking <15821850193@139.com>
+Date:   Tue Jul 23 09:50:56 2019 +0800
+
+    Add index page
+
+[33mcommit f30c873f6ff3ec58c1a9d103b4f321d5845534b6[m
+Author: fortheskyking <15821850193@139.com>
+Date:   Tue Jul 23 09:33:46 2019 +0800
+
+    Add minimal home page
+
+[33mcommit d1f28055a048a91d4831aa18e8e811153826a854[m
+Author: fortheskyking <15821850193@139.com>
+Date:   Tue Jul 23 09:16:52 2019 +0800
+
+    I'am ready!
